@@ -1,6 +1,5 @@
-# Visual Studio/C++ build files
-.vs/
 build/
+.vs/
 *.ipch
 *.sdf
 *.suo
