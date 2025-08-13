@@ -1,0 +1,19 @@
+# Visual Studio/C++ build files
+.vs/
+build/
+*.ipch
+*.sdf
+*.suo
+*.user
+*.opensdf
+
+# Executables
+*.exe
+*.dll
+
+# Build output
+[Bb]uild/
+[Rr]elease/
+[Dd]ebug/
+x64/
+x86/
