@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "F:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography/build_gui/_deps/glfw-subbuild/CMakeFiles/glfw-populate"
+		},
+		{
+			"file" : "F:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography/build_gui/_deps/glfw-subbuild/CMakeFiles/360292ab73fdd7ec4684bbc0ee9bc233/glfw-populate.rule"
+		},
+		{
+			"file" : "F:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography/build_gui/_deps/glfw-subbuild/CMakeFiles/d5b20b4169cb20e2598baf2c32ac5a9d/glfw-populate-complete.rule"
+		},
+		{
+			"file" : "F:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography/build_gui/_deps/glfw-subbuild/CMakeFiles/b534f3b0b6e8fddcb5c33f66f767398f/glfw-populate-build.rule"
+		},
+		{
+			"file" : "F:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography/build_gui/_deps/glfw-subbuild/CMakeFiles/b534f3b0b6e8fddcb5c33f66f767398f/glfw-populate-configure.rule"
+		},
+		{
+			"file" : "F:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography/build_gui/_deps/glfw-subbuild/CMakeFiles/b534f3b0b6e8fddcb5c33f66f767398f/glfw-populate-download.rule"
+		},
+		{
+			"file" : "F:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography/build_gui/_deps/glfw-subbuild/CMakeFiles/b534f3b0b6e8fddcb5c33f66f767398f/glfw-populate-install.rule"
+		},
+		{
+			"file" : "F:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography/build_gui/_deps/glfw-subbuild/CMakeFiles/b534f3b0b6e8fddcb5c33f66f767398f/glfw-populate-mkdir.rule"
+		},
+		{
+			"file" : "F:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography/build_gui/_deps/glfw-subbuild/CMakeFiles/b534f3b0b6e8fddcb5c33f66f767398f/glfw-populate-patch.rule"
+		},
+		{
+			"file" : "F:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography/build_gui/_deps/glfw-subbuild/CMakeFiles/b534f3b0b6e8fddcb5c33f66f767398f/glfw-populate-test.rule"
+		},
+		{
+			"file" : "F:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography/build_gui/_deps/glfw-subbuild/CMakeFiles/b534f3b0b6e8fddcb5c33f66f767398f/glfw-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-populate"
+		],
+		"name" : "glfw-populate"
+	}
+}

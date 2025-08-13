@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\AvanD\KULIAH\Semester Antara 6-7_TI 22\Project Steganography\LSB-Steganography\src\aes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\AvanD\KULIAH\Semester Antara 6-7_TI 22\Project Steganography\LSB-Steganography\src\crc32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\AvanD\KULIAH\Semester Antara 6-7_TI 22\Project Steganography\LSB-Steganography\src\image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\AvanD\KULIAH\Semester Antara 6-7_TI 22\Project Steganography\LSB-Steganography\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\AvanD\KULIAH\Semester Antara 6-7_TI 22\Project Steganography\LSB-Steganography\src\sha256.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\AvanD\KULIAH\Semester Antara 6-7_TI 22\Project Steganography\LSB-Steganography\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5A719BFC-7E1E-3832-9A56-E512CA937E3E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

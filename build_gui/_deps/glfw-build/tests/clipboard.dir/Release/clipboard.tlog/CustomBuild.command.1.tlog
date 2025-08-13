@@ -1,0 +1,10 @@
+^F:\AVAND\KULIAH\SEMESTER ANTARA 6-7_TI 22\PROJECT STEGANOGRAPHY\LSB-STEGANOGRAPHY\BUILD_GUI\_DEPS\GLFW-SRC\TESTS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SF:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography" "-BF:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography/build_gui" --check-stamp-file "F:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography/build_gui/_deps/glfw-build/tests/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

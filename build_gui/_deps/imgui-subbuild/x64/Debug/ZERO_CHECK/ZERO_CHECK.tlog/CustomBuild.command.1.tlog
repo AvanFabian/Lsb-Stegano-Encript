@@ -1,0 +1,10 @@
+^F:\AVAND\KULIAH\SEMESTER ANTARA 6-7_TI 22\PROJECT STEGANOGRAPHY\LSB-STEGANOGRAPHY\BUILD_GUI\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\626448AFAED36D67AD657979DDEA864F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SF:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography/build_gui/_deps/imgui-subbuild" "-BF:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography/build_gui/_deps/imgui-subbuild" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "F:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography/build_gui/_deps/imgui-subbuild/imgui-populate.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

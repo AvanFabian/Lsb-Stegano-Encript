@@ -1,0 +1,10 @@
+^F:\AVAND\KULIAH\SEMESTER ANTARA 6-7_TI 22\PROJECT STEGANOGRAPHY\LSB-STEGANOGRAPHY\BUILD\CMAKEFILES\D44A1723746A7358A20EB46945D2A0E0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SF:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography" "-BF:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "F:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography/build/steganography.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

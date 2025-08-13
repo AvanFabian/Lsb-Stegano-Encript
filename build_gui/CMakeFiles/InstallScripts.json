@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"F:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography/build_gui/cmake_install.cmake",
+		"F:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography/build_gui/_deps/glfw-build/cmake_install.cmake",
+		"F:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography/build_gui/_deps/glfw-build/src/cmake_install.cmake",
+		"F:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography/build_gui/_deps/glfw-build/examples/cmake_install.cmake",
+		"F:/AvanD/KULIAH/Semester Antara 6-7_TI 22/Project Steganography/LSB-Steganography/build_gui/_deps/glfw-build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

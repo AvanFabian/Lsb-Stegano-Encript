@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\AvanD\KULIAH\Semester Antara 6-7_TI 22\Project Steganography\LSB-Steganography\ext\zlib\adler32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\AvanD\KULIAH\Semester Antara 6-7_TI 22\Project Steganography\LSB-Steganography\ext\zlib\compress.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\AvanD\KULIAH\Semester Antara 6-7_TI 22\Project Steganography\LSB-Steganography\ext\zlib\crc32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\AvanD\KULIAH\Semester Antara 6-7_TI 22\Project Steganography\LSB-Steganography\ext\zlib\deflate.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\AvanD\KULIAH\Semester Antara 6-7_TI 22\Project Steganography\LSB-Steganography\ext\zlib\gzclose.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\AvanD\KULIAH\Semester Antara 6-7_TI 22\Project Steganography\LSB-Steganography\ext\zlib\gzlib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\AvanD\KULIAH\Semester Antara 6-7_TI 22\Project Steganography\LSB-Steganography\ext\zlib\gzread.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\AvanD\KULIAH\Semester Antara 6-7_TI 22\Project Steganography\LSB-Steganography\ext\zlib\gzwrite.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\AvanD\KULIAH\Semester Antara 6-7_TI 22\Project Steganography\LSB-Steganography\ext\zlib\infback.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\AvanD\KULIAH\Semester Antara 6-7_TI 22\Project Steganography\LSB-Steganography\ext\zlib\inffast.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\AvanD\KULIAH\Semester Antara 6-7_TI 22\Project Steganography\LSB-Steganography\ext\zlib\inflate.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\AvanD\KULIAH\Semester Antara 6-7_TI 22\Project Steganography\LSB-Steganography\ext\zlib\inftrees.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\AvanD\KULIAH\Semester Antara 6-7_TI 22\Project Steganography\LSB-Steganography\ext\zlib\trees.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\AvanD\KULIAH\Semester Antara 6-7_TI 22\Project Steganography\LSB-Steganography\ext\zlib\uncompr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\AvanD\KULIAH\Semester Antara 6-7_TI 22\Project Steganography\LSB-Steganography\ext\zlib\zutil.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\AvanD\KULIAH\Semester Antara 6-7_TI 22\Project Steganography\LSB-Steganography\ext\zlib\crc32.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\AvanD\KULIAH\Semester Antara 6-7_TI 22\Project Steganography\LSB-Steganography\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C523D15C-F375-3ECD-A64F-E6FA8421B0E9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5A719BFC-7E1E-3832-9A56-E512CA937E3E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

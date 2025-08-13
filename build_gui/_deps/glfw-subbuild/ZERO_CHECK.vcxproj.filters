@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="F:\AvanD\KULIAH\Semester Antara 6-7_TI 22\Project Steganography\LSB-Steganography\build_gui\_deps\glfw-subbuild\CMakeFiles\360292ab73fdd7ec4684bbc0ee9bc233\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8E1EFFD2-9CC6-39B3-9897-15CCBD744D0F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
